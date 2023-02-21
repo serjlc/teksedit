@@ -172,6 +172,7 @@ namespace TeksEdit
         private void MenuNew_Click(object sender, EventArgs e)
         {
             RichTextBox.Clear();
+            this.Text = "TeksEdit - Untitled";
         }
 
         private void MenuOpen_Click(object sender, EventArgs e)

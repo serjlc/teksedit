@@ -9,7 +9,7 @@
     <Platforms>AnyCPU;x64</Platforms>
     <UseWPF>False</UseWPF>
     <BaseOutputPath>C:\Users\juers\Desktop</BaseOutputPath>
-    <ApplicationIcon>libreofficewriter_94799.ico</ApplicationIcon>
+    <ApplicationIcon>Resources\libreofficewriter_94799.ico</ApplicationIcon>
     <Authors>Serjlc</Authors>
   </PropertyGroup>
 
